@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "user": 18,
+  "constraint": 18,
+  "promotion": {
+    "id": 20,
+    "name": "Monopoly - Kids' Meal",
+    "promotion_tactic": 1,
+    "product_category": {
+      "id": 13,
+      "product_category": "Kids' Meals"
+    },
+    "menu_item": {
+      "id": 10,
+      "menu_item_name": "Kids' Meal",
+      "product_category": 13
+    },
+    "start_date": "2017-06-01",
+    "end_date": "2017-06-30",
+    "confidence_level": "0.80000",
+    "metrics": [],
+    "halo": [],
+    "cannibalization": []
+  },
+  "created_on": "2017-07-10T20:53:58.931257Z"
+}
